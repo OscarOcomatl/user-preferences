@@ -1,16 +1,13 @@
 # preferences_app
 
-A new Flutter project.
+A Flutter project showing some users preferences
 
-## Getting Started
+## Dark mode 
+![darkmode](https://github.com/OscarOcomatl/user-preferences/assets/137260371/bcb66690-131b-46f8-ba73-acea7b2665e0)
 
-This project is a starting point for a Flutter application.
+## No Dark Mode
+![nodarkmode](https://github.com/OscarOcomatl/user-preferences/assets/137260371/f5cb60ae-a670-4d5b-a66e-66ca74476cce)
 
-A few resources to get you started if this is your first Flutter project:
+## Config Page
+![configpage](https://github.com/OscarOcomatl/user-preferences/assets/137260371/3782b13c-c25f-4f3b-a12f-46590eaff71a)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
