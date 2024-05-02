@@ -8,6 +8,6 @@ A Flutter project showing some users preferences
 ## No Dark Mode
 ![nodarkmode](https://github.com/OscarOcomatl/user-preferences/assets/137260371/f5cb60ae-a670-4d5b-a66e-66ca74476cce)
 
-## Config Page
+## Settings Page
 ![configpage](https://github.com/OscarOcomatl/user-preferences/assets/137260371/3782b13c-c25f-4f3b-a12f-46590eaff71a)
 
